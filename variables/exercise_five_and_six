@@ -1,0 +1,11 @@
+5)  Both snippets will return 3.  In the first snippet,
+you have 1 being added to 0, and return the new value,
+which is now 1. Three loops of this ends with x being 3.
+In the second snippet, you set y to 1, then set x to y,
+which means it has the same value at that moment in
+time, so x is 1 as is y. Each loop sets the values equal
+to one another, since the previous value of x is overwritten
+by y's new incremented value.
+
+6) The error message is telling the programmer that he used
+and undeclared variable in the local scope.
