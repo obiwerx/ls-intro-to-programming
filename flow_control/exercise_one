@@ -1,0 +1,6 @@
+1. (32 * 4) >= 129          ANSWER: FALSE
+2. false != !true           ANSWER: FALSE
+3. true == 4                ANSWER: FALSE
+4. false == (847 == '874')  ANSWER: TRUE
+5. (!true || (!(100 / 5) == 20)
+    || ((328 / 4) == 82)) || false    ANSWER: TRUE
